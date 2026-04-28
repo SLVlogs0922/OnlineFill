@@ -1,11 +1,32 @@
 {
   "pilgrims": [
     {
-      "name": "M Rama Devi",
-      "age": "40",
+      "name": "SANA VARNIKA",
+      "age": "14",
       "gender": "Female",
       "idType": "Aadhaar",
-      "idNumber": "972673581583"
+      "idNumber": "912739797756"
+    },
+	{
+      "name": "SANA NAVEEN KUMAR",
+      "age": "42",
+      "gender": "Male",
+      "idType": "Aadhaar",
+      "idNumber": "335668888737"
+    },
+	{
+      "name": "PENCHALA SUSHMA",
+      "age": "38",
+      "gender": "Female",
+      "idType": "Aadhaar",
+      "idNumber": "703271174100"
+    },
+	{
+      "name": "S SAROJA",
+      "age": "55",
+      "gender": "Female",
+      "idType": "Aadhaar",
+      "idNumber": "522766689265"
     }
   ]
 }
